@@ -1,4 +1,4 @@
-# library-automation
+# Library-Automation
 This project aims to streamline the process of library entry and exit by implementing barcode scanning technology. It involves the development of a system that automates the check-in and check-out process for library users. Additionally, a website is created to allow users to check the current availability of the library.
 
 The system utilizes barcode scanning, where users are provided with unique barcode IDs that can be scanned upon entry and exit. This allows for quick and efficient tracking of library attendance. The system maintains a real-time record of the number of people inside the library at any given time.
